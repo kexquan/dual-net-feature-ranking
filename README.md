@@ -19,7 +19,7 @@ Run example 2 in multithreading, which will take about 5 minutes on a RTX3090 GP
 python DFR_main.py --run_example2 --operator_arch 128 32 2 --num_fs 5 --multi_thread
 
 ## Example 3: MNIST hand-written digit feature importance visulization
-Run example 3 in multithreading:
+Run example 3 in multithreading, which will take about 20 minutes on a RTX3090 GPU:
 
 python DFR_main.py --run_example3 --num_fs 50 --s 50 --s_p 20 --multi_thread
 
