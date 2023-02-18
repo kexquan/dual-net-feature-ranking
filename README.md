@@ -24,10 +24,7 @@ Run example 3 in multithreading, which will take about 20 minutes on a RTX3090 G
 python DFR_main.py --run_example3 --num_fs 50 --s 50 --s_p 20 --multi_thread
 
 ##
-If you find this is useful, please cite 
-[Automatic Selection of Discriminative Features for Dementia Detection in Cantonese-Speaking People](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech22b.pdf) in Proc. Interspeech 2022.
-
-and Dual-net Feature Ranking and Its Applications to Dementia Detection.
+If you find this is useful, please cite "Dual-net Feature Ranking and Its Applications to Dementia Detection".
 
 ##
 Homepage: <https://kexquan.github.io>
