@@ -25,8 +25,7 @@ python DFR_main.py --run_example3 --num_fs 50 --s 50 --s_p 20 --multi_thread
 
 ##
 If you find this is useful, please cite 
-[Automatic Selection of Discriminative Features for Dementia Detection in Cantonese-Speaking People](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech22b.pdf)
-"Proc. Interspeech 2022"
+[Automatic Selection of Discriminative Features for Dementia Detection in Cantonese-Speaking People](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech22b.pdf) in Proc. Interspeech 2022.
 
 and Dual-net Feature Ranking and Its Applications to Dementia Detection.
 
