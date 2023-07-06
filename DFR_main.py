@@ -265,8 +265,8 @@ if __name__ == '__main__':
     # parameter for DFR
     parser.add_argument('--data_batch_size', type=int, default=32)                        # Batch size
     parser.add_argument('--mask_batch_size', type=int, default=32)                        # The size of the feature mask subset, e.g., |Z|
-    parser.add_argument('--s', type=int, default=5)                                       
-    parser.add_argument('--s_p', type=int, default=2)                                     
+    parser.add_argument('--s', type=int, default=5)                                       # The number of selected features
+    parser.add_argument('--s_p', type=int, default=2)                                     # The number of flipping
     parser.add_argument('--phase_2_start', type=int, default=6000)
     parser.add_argument('--max_batches', type=int, default=10000)                         # Number of iterations
     parser.add_argument('--epoch_on_which_selector_trained', type=int, default=2)
